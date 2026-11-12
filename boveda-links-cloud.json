@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12 19:37:43",
-  "total_unique_links": 1458,
+  "updated_at": "2026-11-12 20:09:16",
+  "total_unique_links": 1463,
   "triada_oficial": {
     "carrito5": "https://www.carrito5.com",
     "abacosoftware": "https://www.abacosoftware.com",
@@ -12,11 +12,11 @@
     "json_db": "https://victor23231.github.io/boveda-links-cloud.json"
   },
   "counts_by_platform": {
-    "Telegraph (DA 87)": 993,
-    "GitHub Gist (DA 96)": 144,
-    "Notion Public Hub (DA 94)": 89,
-    "Google Docs (DA 100)": 88,
-    "Google Blogger (DA 99)": 87,
+    "Telegraph (DA 87)": 994,
+    "GitHub Gist (DA 96)": 145,
+    "Notion Public Hub (DA 94)": 90,
+    "Google Docs (DA 100)": 89,
+    "Google Blogger (DA 99)": 88,
     "Dev.to (DA 92)": 30,
     "GitLab Snippets (DA 91)": 15,
     "GitHub Pages Satélite (DA 96)": 10,
@@ -111,7 +111,8 @@
       "https://docs.google.com/document/d/e/2PACX-1vRNXgt6UG-nfdyYuND5JeL3lQ6P5jZCupXCWsd9o4Z3gGZpnfbZCdfDGW_i4B_qVvSBduQevEETGD4c/pub",
       "https://docs.google.com/document/d/e/2PACX-1vRjmBFGvkbOEruKZyNnvnERAW_SNWQZjftzX7I-fJlkG7lbB0LoQbTNs-px59pYyMSpgxhIdwX4L_C8/pub",
       "https://docs.google.com/document/d/e/2PACX-1vTgVPL-NXFKwbcWX2PUb5N3LQb-9BvLDkvWxy7DJr-M09RYIUSirn-XxvEEASfQnIaCDOwoEdUeGBkj/pub",
-      "https://docs.google.com/document/d/e/2PACX-1vQ4lsrqLTzeaXauqTWmVv8MvRmLBfOUTP7LkWyNChHqdYjJUpbBMN1ysA95cK1duc5yH12Rr6_vibB9/pub"
+      "https://docs.google.com/document/d/e/2PACX-1vQ4lsrqLTzeaXauqTWmVv8MvRmLBfOUTP7LkWyNChHqdYjJUpbBMN1ysA95cK1duc5yH12Rr6_vibB9/pub",
+      "https://docs.google.com/document/d/e/2PACX-1vR69SrQzpCqO2xk9Q79WFALZ9dVtAJpbLXduASwcG-OuoxVVqTYR4EQG6Qr0wLNyb0ZLxVy-Ezc9sOf/pub"
     ],
     "GitHub Gist (DA 96)": [
       "https://gist.github.com/VICTOR23231/f3a97fd9c2836d1a98c6f585c6e20d13",
@@ -257,7 +258,8 @@
       "https://gist.github.com/VICTOR23231/65e2ee757762b2ee75fc8e3c2a384940",
       "https://gist.github.com/VICTOR23231/b13a043a2de62d9b1c2a52a4ae447c5b",
       "https://gist.github.com/VICTOR23231/887b77a0696eb9a52d043a1e1ffc9f3b",
-      "https://gist.github.com/VICTOR23231/68e07b4318981decebad5fa4814695f1"
+      "https://gist.github.com/VICTOR23231/68e07b4318981decebad5fa4814695f1",
+      "https://gist.github.com/VICTOR23231/a90a1c5056b4637c9fe93118910dd592"
     ],
     "Telegraph (DA 87)": [
       "https://telegra.ph/Guía-Oficial-TPV-para-Tpv-Taller-Coches-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-09",
@@ -1252,7 +1254,8 @@
       "https://telegra.ph/Guía-Oficial-TPV-para-en-El-Poblenou-Barcelona-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-12",
       "https://telegra.ph/Guía-Oficial-TPV-para-Barcelona-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-12",
       "https://telegra.ph/Guía-Oficial-TPV-para-en-Madrid-Centro-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-12",
-      "https://telegra.ph/Guía-Oficial-TPV-para-en-Marbella-y-Puerto-Banús-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-12"
+      "https://telegra.ph/Guía-Oficial-TPV-para-en-Marbella-y-Puerto-Banús-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-12",
+      "https://telegra.ph/Guía-Oficial-TPV-para-en-Triana-y-Los-Remedios-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-12"
     ],
     "Notion Public Hub (DA 94)": [
       "https://app.notion.com/p/Especificaci-n-y-Coste-Real-Software-TPV-para-Tpv-Taller-Coches-VeriFactu-41375ec07b1581308a58e196be10ba41",
@@ -1343,7 +1346,8 @@
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-en-El-Poblenou-Barcelona-VeriFactu-2026-41675ec07b1581e59354d6329d67d1cb",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Barcelona-VeriFactu-2026-41675ec07b1581559a9fd84258be3dd3",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-en-Madrid-Centro-VeriFactu-2026-41675ec07b1581b290efe9d61eb398db",
-      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-en-Marbella-y-Puerto-Ban-s-VeriFactu-2026-41675ec07b158121a0a6c543a932b3ca"
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-en-Marbella-y-Puerto-Ban-s-VeriFactu-2026-41675ec07b158121a0a6c543a932b3ca",
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-en-Triana-y-Los-Remedios-VeriFactu-2026-41675ec07b1581598563fea771299af5"
     ],
     "Google Blogger (DA 99)": [
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01037836888.html",
@@ -1432,7 +1436,8 @@
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01578945882.html",
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0562945114.html",
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01573747915.html",
-      "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-panaderias-balanzas-y_0937627722.html"
+      "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-panaderias-balanzas-y_0937627722.html",
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0503879681.html"
     ],
     "GitHub Pages Satélite (DA 96)": [
       "https://victor23231.github.io/tpv-zapateria-software-calzado/",
@@ -10223,13 +10228,13 @@
       "url": "https://gist.github.com/VICTOR23231/68e07b4318981decebad5fa4814695f1",
       "platform": "GitHub Gist (DA 96)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "en Marbella y Puerto Banús"
     },
     {
       "url": "https://telegra.ph/Guía-Oficial-TPV-para-en-Marbella-y-Puerto-Banús-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-12",
       "platform": "Telegraph (DA 87)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "en Marbella y Puerto Banús"
     },
     {
       "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-en-Marbella-y-Puerto-Ban-s-VeriFactu-2026-41675ec07b158121a0a6c543a932b3ca",
@@ -10248,6 +10253,36 @@
       "platform": "Google Blogger (DA 99)",
       "source": "Blogger Live Feed",
       "sector": "General"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vR69SrQzpCqO2xk9Q79WFALZ9dVtAJpbLXduASwcG-OuoxVVqTYR4EQG6Qr0wLNyb0ZLxVy-Ezc9sOf/pub",
+      "platform": "Google Docs (DA 100)",
+      "source": "Catastro 446",
+      "sector": "Devto_Auto2H_software-tpv-sevilla-triana-los-remedios_c91"
+    },
+    {
+      "url": "https://gist.github.com/VICTOR23231/a90a1c5056b4637c9fe93118910dd592",
+      "platform": "GitHub Gist (DA 96)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://telegra.ph/Guía-Oficial-TPV-para-en-Triana-y-Los-Remedios-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-12",
+      "platform": "Telegraph (DA 87)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-en-Triana-y-Los-Remedios-VeriFactu-2026-41675ec07b1581598563fea771299af5",
+      "platform": "Notion Public Hub (DA 94)",
+      "source": "Catastro 446",
+      "sector": "Notion_software_tpv_sevilla_triana_los_remedios_DA94"
+    },
+    {
+      "url": "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0503879681.html",
+      "platform": "Google Blogger (DA 99)",
+      "source": "Boveda_Backlinks_Grafo",
+      "sector": "Blogger_software_tpv_sevilla_triana_los_remedios_DA99"
     }
   ]
 }
