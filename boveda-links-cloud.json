@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13 07:40:04",
-  "total_unique_links": 1576,
+  "updated_at": "2026-11-13 08:11:08",
+  "total_unique_links": 1581,
   "triada_oficial": {
     "carrito5": "https://www.carrito5.com",
     "abacosoftware": "https://www.abacosoftware.com",
@@ -12,11 +12,11 @@
     "json_db": "https://victor23231.github.io/boveda-links-cloud.json"
   },
   "counts_by_platform": {
-    "Telegraph (DA 87)": 1016,
-    "GitHub Gist (DA 96)": 166,
-    "Google Blogger (DA 99)": 114,
-    "Notion Public Hub (DA 94)": 112,
-    "Google Docs (DA 100)": 111,
+    "Telegraph (DA 87)": 1017,
+    "GitHub Gist (DA 96)": 167,
+    "Google Blogger (DA 99)": 115,
+    "Notion Public Hub (DA 94)": 113,
+    "Google Docs (DA 100)": 112,
     "Dev.to (DA 92)": 30,
     "GitLab Snippets (DA 91)": 15,
     "GitHub Pages Satélite (DA 96)": 10,
@@ -134,7 +134,8 @@
       "https://docs.google.com/document/d/e/2PACX-1vQuy7lmz7FZQ2FnW5nFS-dojddjs64VGu15sa_x1yrXnZaEFlNTIjv9OSqwKuiqahSKB6GtOnOpaDUG/pub",
       "https://docs.google.com/document/d/e/2PACX-1vQeyoFToLTszPLmi2wfNgoDIwghdhltLl9zPO2g3CFly77xRCU9-rvFOog0Z06ge-9gfIYpotl0Q16i/pub",
       "https://docs.google.com/document/d/e/2PACX-1vSRZW7O1AUMdgvQ6xJxhUnz054GOwOzgw1sKK9cHnXRVXWRRn_-Z7mIFe0wOXevL_4cB70FYmPhSuYn/pub",
-      "https://docs.google.com/document/d/e/2PACX-1vTifWZisQGFjTG5zAj09JFd26h0MpYB1VgTaIGwKiKl1OVpLcN2DGzPkoUBOXVE962YVnexmS5-4BKO/pub"
+      "https://docs.google.com/document/d/e/2PACX-1vTifWZisQGFjTG5zAj09JFd26h0MpYB1VgTaIGwKiKl1OVpLcN2DGzPkoUBOXVE962YVnexmS5-4BKO/pub",
+      "https://docs.google.com/document/d/e/2PACX-1vQhFJ4NPQEb52M47r-RyyQL1glZtSDOg1o686sqLcFMYwsNEzoA1i2oXDoA6UWPB7WYtmZf76564XpI/pub"
     ],
     "GitHub Gist (DA 96)": [
       "https://gist.github.com/VICTOR23231/f3a97fd9c2836d1a98c6f585c6e20d13",
@@ -302,7 +303,8 @@
       "https://gist.github.com/VICTOR23231/6cd17822eee5c3694c7ed5d8169a2c2a",
       "https://gist.github.com/VICTOR23231/ba77c30d05201e13d8c27fe3321291a8",
       "https://gist.github.com/VICTOR23231/91dba10d86b740afe76be11f3c340cd7",
-      "https://gist.github.com/VICTOR23231/089c482c461f6519bfe563fc92d86f66"
+      "https://gist.github.com/VICTOR23231/089c482c461f6519bfe563fc92d86f66",
+      "https://gist.github.com/VICTOR23231/2268e8318ad1075e6a1bd4f3e7011092"
     ],
     "Telegraph (DA 87)": [
       "https://telegra.ph/Guía-Oficial-TPV-para-Tpv-Taller-Coches-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-09",
@@ -1320,7 +1322,8 @@
       "https://telegra.ph/Guía-Oficial-TPV-para-Valencia-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
       "https://telegra.ph/Guía-Oficial-TPV-para-Tienda-de-Deportes-y-Pádel-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
       "https://telegra.ph/Guía-Oficial-TPV-para-Decoración-y-Regalos-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
-      "https://telegra.ph/Guía-Oficial-TPV-para-Cómics-y-Manga-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13"
+      "https://telegra.ph/Guía-Oficial-TPV-para-Cómics-y-Manga-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
+      "https://telegra.ph/Guía-Oficial-TPV-para-para-Joyerías-Relojerías-y-Bisutería-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13"
     ],
     "Notion Public Hub (DA 94)": [
       "https://app.notion.com/p/Especificaci-n-y-Coste-Real-Software-TPV-para-Tpv-Taller-Coches-VeriFactu-41375ec07b1581308a58e196be10ba41",
@@ -1434,7 +1437,8 @@
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Valencia-VeriFactu-2026-41775ec07b1581cb83f9c43d49429519",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Tienda-de-Deportes-y-P-del-VeriFactu-2026-41775ec07b1581a6b1cfc0a1121da529",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Decoraci-n-y-Regalos-VeriFactu-2026-41775ec07b1581d5b48fd4241b8ce6f7",
-      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-C-mics-y-Manga-VeriFactu-2026-41775ec07b15815ba727fcbfc5e42aa7"
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-C-mics-y-Manga-VeriFactu-2026-41775ec07b15815ba727fcbfc5e42aa7",
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-para-Joyer-as-Relojer-as-y-Bisuter-a-VeriFactu--41775ec07b1581f3bac0f90f8253192e"
     ],
     "Google Blogger (DA 99)": [
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01037836888.html",
@@ -1550,7 +1554,8 @@
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0886462320.html",
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0767537785.html",
       "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-tiendas-de-ropa-y_0711589948.html",
-      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01935718395.html"
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01935718395.html",
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01399751981.html"
     ],
     "GitHub Pages Satélite (DA 96)": [
       "https://victor23231.github.io/tpv-zapateria-software-calzado/",
@@ -11055,13 +11060,13 @@
       "url": "https://gist.github.com/VICTOR23231/089c482c461f6519bfe563fc92d86f66",
       "platform": "GitHub Gist (DA 96)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Cómics y Manga Gratis | ISBN, Figuras, Col | Carr..."
     },
     {
       "url": "https://telegra.ph/Guía-Oficial-TPV-para-Cómics-y-Manga-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
       "platform": "Telegraph (DA 87)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Cómics y Manga Gratis | ISBN, Figuras, Col | Carr..."
     },
     {
       "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-C-mics-y-Manga-VeriFactu-2026-41775ec07b15815ba727fcbfc5e42aa7",
@@ -11074,6 +11079,36 @@
       "platform": "Google Blogger (DA 99)",
       "source": "Boveda_Backlinks_Grafo",
       "sector": "Blogger_tpv_comics_manga_merchandising_DA99"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vQhFJ4NPQEb52M47r-RyyQL1glZtSDOg1o686sqLcFMYwsNEzoA1i2oXDoA6UWPB7WYtmZf76564XpI/pub",
+      "platform": "Google Docs (DA 100)",
+      "source": "Catastro 446",
+      "sector": "Devto_Auto2H_tpv-joyeria-relojeria-bisuteria_c114"
+    },
+    {
+      "url": "https://gist.github.com/VICTOR23231/2268e8318ad1075e6a1bd4f3e7011092",
+      "platform": "GitHub Gist (DA 96)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://telegra.ph/Guía-Oficial-TPV-para-para-Joyerías-Relojerías-y-Bisutería-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
+      "platform": "Telegraph (DA 87)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-para-Joyer-as-Relojer-as-y-Bisuter-a-VeriFactu--41775ec07b1581f3bac0f90f8253192e",
+      "platform": "Notion Public Hub (DA 94)",
+      "source": "Catastro 446",
+      "sector": "Notion_tpv_joyeria_relojeria_bisuteria_DA94"
+    },
+    {
+      "url": "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01399751981.html",
+      "platform": "Google Blogger (DA 99)",
+      "source": "Boveda_Backlinks_Grafo",
+      "sector": "Blogger_tpv_joyeria_relojeria_bisuteria_DA99"
     }
   ]
 }
