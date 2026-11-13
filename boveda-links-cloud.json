@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13 19:38:49",
-  "total_unique_links": 1696,
+  "updated_at": "2026-11-13 20:10:06",
+  "total_unique_links": 1702,
   "triada_oficial": {
     "carrito5": "https://www.carrito5.com",
     "abacosoftware": "https://www.abacosoftware.com",
@@ -12,11 +12,11 @@
     "json_db": "https://victor23231.github.io/boveda-links-cloud.json"
   },
   "counts_by_platform": {
-    "Telegraph (DA 87)": 1039,
-    "GitHub Gist (DA 96)": 189,
-    "Google Blogger (DA 99)": 142,
-    "Notion Public Hub (DA 94)": 135,
-    "Google Docs (DA 100)": 134,
+    "Telegraph (DA 87)": 1040,
+    "GitHub Gist (DA 96)": 190,
+    "Google Blogger (DA 99)": 144,
+    "Notion Public Hub (DA 94)": 136,
+    "Google Docs (DA 100)": 135,
     "Dev.to (DA 92)": 30,
     "GitLab Snippets (DA 91)": 15,
     "GitHub Pages Satélite (DA 96)": 10,
@@ -157,7 +157,8 @@
       "https://docs.google.com/document/d/e/2PACX-1vQ4sdwFAYvY3ec84JNHR0AY5QG_7oVIFUAS845IFlEoWXJo3DNdFYf9r8VCvcBxTSJvAcHGwY-xU4mJ/pub",
       "https://docs.google.com/document/d/e/2PACX-1vRoLnoiJg80VVFJkyh5kSn9sTjgMxm3RVD-OTil45MMvUX9zsRE5p7ORpGwunEsKg07mGUtMW9eXBIW/pub",
       "https://docs.google.com/document/d/e/2PACX-1vTtp6VDCFIOEtZzSLlDlZkrXHsWp4KGHs7Vp5yoYFXfn_cHTHQipR8fE6QGB6JaxPG5V5HGZF_2xbbL/pub",
-      "https://docs.google.com/document/d/e/2PACX-1vQENQYiCqwQJiKOy6sQV8p_O9pDbKODgOYqfVC5y7zjTTx_-kVq27F_7rG2gaiA_dV5z0NQltxB25Az/pub"
+      "https://docs.google.com/document/d/e/2PACX-1vQENQYiCqwQJiKOy6sQV8p_O9pDbKODgOYqfVC5y7zjTTx_-kVq27F_7rG2gaiA_dV5z0NQltxB25Az/pub",
+      "https://docs.google.com/document/d/e/2PACX-1vT0OEjCK2YmoKtDDH1DmsgKQ8aoF8t1rQ35P5oJCEyUQNdcgsvMXn4vlF8cJQETU_5T1HhTindJ6NQd/pub"
     ],
     "GitHub Gist (DA 96)": [
       "https://gist.github.com/VICTOR23231/f3a97fd9c2836d1a98c6f585c6e20d13",
@@ -348,7 +349,8 @@
       "https://gist.github.com/VICTOR23231/cdb6974544626e11242985ea7b86317e",
       "https://gist.github.com/VICTOR23231/16e0a27595ec85ad419dbc409ea81bee",
       "https://gist.github.com/VICTOR23231/35cd8bf0f35c1581db26fa776eb8151b",
-      "https://gist.github.com/VICTOR23231/f0f35e2259d4f15dd8045e3270cf5898"
+      "https://gist.github.com/VICTOR23231/f0f35e2259d4f15dd8045e3270cf5898",
+      "https://gist.github.com/VICTOR23231/49a0029b929bd6e954a179fcbda92a7c"
     ],
     "Telegraph (DA 87)": [
       "https://telegra.ph/Guía-Oficial-TPV-para-Tpv-Taller-Coches-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-09",
@@ -1389,7 +1391,8 @@
       "https://telegra.ph/Guía-Oficial-TPV-para-Accesorios-de-Música-Cuerdas-Fundas-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
       "https://telegra.ph/Guía-Oficial-TPV-para-Instrumentos-Música-Barcelona-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
       "https://telegra.ph/Guía-Oficial-TPV-para-Instrumentos-de-Música-Madrid-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
-      "https://telegra.ph/Guía-Oficial-TPV-para-para-TicketBAI-en-País-Vasco-Gipuz-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13"
+      "https://telegra.ph/Guía-Oficial-TPV-para-para-TicketBAI-en-País-Vasco-Gipuz-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
+      "https://telegra.ph/Guía-Oficial-TPV-para-Tiendas-de-CBD-y-Grow-Shops-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13"
     ],
     "Notion Public Hub (DA 94)": [
       "https://app.notion.com/p/Especificaci-n-y-Coste-Real-Software-TPV-para-Tpv-Taller-Coches-VeriFactu-41375ec07b1581308a58e196be10ba41",
@@ -1526,7 +1529,8 @@
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Accesorios-de-M-sica-Cuerdas-Fundas-VeriFactu--41775ec07b1581699e3cf8168248a1ee",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Instrumentos-M-sica-Barcelona-VeriFactu-2026-41775ec07b15813090a3c89808b5e411",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Instrumentos-de-M-sica-Madrid-VeriFactu-2026-41775ec07b1581a1834ad5e91d5f18d0",
-      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-para-TicketBAI-en-Pa-s-Vasco-Gipuz-VeriFactu-20-41775ec07b1581d6a449cd16bbed48bd"
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-para-TicketBAI-en-Pa-s-Vasco-Gipuz-VeriFactu-20-41775ec07b1581d6a449cd16bbed48bd",
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Tiendas-de-CBD-y-Grow-Shops-VeriFactu-2026-41775ec07b15818b8342e51eb17e40cd"
     ],
     "Google Blogger (DA 99)": [
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01037836888.html",
@@ -1670,7 +1674,9 @@
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01146797604.html",
       "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-hosteleria-mesas_0196520339.html",
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_02016877677.html",
-      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01695422998.html"
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01695422998.html",
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0419676686.html",
+      "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-zapaterias-control-de_0287032823.html"
     ],
     "GitHub Pages Satélite (DA 96)": [
       "https://victor23231.github.io/tpv-zapateria-software-calzado/",
@@ -11895,13 +11901,13 @@
       "url": "https://gist.github.com/VICTOR23231/f0f35e2259d4f15dd8045e3270cf5898",
       "platform": "GitHub Gist (DA 96)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Gratis para TicketBAI en País Vasco (Gipuz | Carr..."
     },
     {
       "url": "https://telegra.ph/Guía-Oficial-TPV-para-para-TicketBAI-en-País-Vasco-Gipuz-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
       "platform": "Telegraph (DA 87)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Gratis para TicketBAI en País Vasco (Gipuz | Carr..."
     },
     {
       "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-para-TicketBAI-en-Pa-s-Vasco-Gipuz-VeriFactu-20-41775ec07b1581d6a449cd16bbed48bd",
@@ -11914,6 +11920,42 @@
       "platform": "Google Blogger (DA 99)",
       "source": "Boveda_Backlinks_Grafo",
       "sector": "Blogger_tpv_ticketbai_pais_vasco_DA99"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vT0OEjCK2YmoKtDDH1DmsgKQ8aoF8t1rQ35P5oJCEyUQNdcgsvMXn4vlF8cJQETU_5T1HhTindJ6NQd/pub",
+      "platform": "Google Docs (DA 100)",
+      "source": "Catastro 446",
+      "sector": "Devto_Auto2H_tpv-cbd-growshop_c137"
+    },
+    {
+      "url": "https://gist.github.com/VICTOR23231/49a0029b929bd6e954a179fcbda92a7c",
+      "platform": "GitHub Gist (DA 96)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://telegra.ph/Guía-Oficial-TPV-para-Tiendas-de-CBD-y-Grow-Shops-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
+      "platform": "Telegraph (DA 87)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Tiendas-de-CBD-y-Grow-Shops-VeriFactu-2026-41775ec07b15818b8342e51eb17e40cd",
+      "platform": "Notion Public Hub (DA 94)",
+      "source": "Catastro 446",
+      "sector": "Notion_tpv_cbd_growshop_DA94"
+    },
+    {
+      "url": "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0419676686.html",
+      "platform": "Google Blogger (DA 99)",
+      "source": "Boveda_Backlinks_Grafo",
+      "sector": "Blogger_tpv_cbd_growshop_DA99"
+    },
+    {
+      "url": "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-zapaterias-control-de_0287032823.html",
+      "platform": "Google Blogger (DA 99)",
+      "source": "Blogger Live Feed",
+      "sector": "General"
     }
   ]
 }
