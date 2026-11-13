@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13 11:17:56",
-  "total_unique_links": 1612,
+  "updated_at": "2026-11-13 11:49:09",
+  "total_unique_links": 1617,
   "triada_oficial": {
     "carrito5": "https://www.carrito5.com",
     "abacosoftware": "https://www.abacosoftware.com",
@@ -12,11 +12,11 @@
     "json_db": "https://victor23231.github.io/boveda-links-cloud.json"
   },
   "counts_by_platform": {
-    "Telegraph (DA 87)": 1023,
-    "GitHub Gist (DA 96)": 173,
-    "Google Blogger (DA 99)": 122,
-    "Notion Public Hub (DA 94)": 119,
-    "Google Docs (DA 100)": 118,
+    "Telegraph (DA 87)": 1024,
+    "GitHub Gist (DA 96)": 174,
+    "Google Blogger (DA 99)": 123,
+    "Notion Public Hub (DA 94)": 120,
+    "Google Docs (DA 100)": 119,
     "Dev.to (DA 92)": 30,
     "GitLab Snippets (DA 91)": 15,
     "GitHub Pages Satélite (DA 96)": 10,
@@ -141,7 +141,8 @@
       "https://docs.google.com/document/d/e/2PACX-1vRHjWvpMe5RAc0aiBK5CKDBZlS0Mfw_8yyEGP2FhZQthMQYfkTx8szgla2DbYfYDEenL0K8AGOdEhNS/pub",
       "https://docs.google.com/document/d/e/2PACX-1vRvtWb6iIcl0brNmbtnXCq23sITwN12cDv4BKvqmzFNvdNlMEvYaglcSEPVq41QgtsVZRFniP41cb5l/pub",
       "https://docs.google.com/document/d/e/2PACX-1vRPrO8MsB4mV1SPeEau46tP3O3tPYdeGzmoOlf3mbFBMJdZSCcWqrhAA7rqWps9ztuyL99Mg9TqFJhk/pub",
-      "https://docs.google.com/document/d/e/2PACX-1vRYBS1nYHKRXYHSy_gMbW3By6-sB5eF1c5S01f3jLS3oIJFMEMOaiyNiCbvoekjbc_y3LtLmh5rH8-t/pub"
+      "https://docs.google.com/document/d/e/2PACX-1vRYBS1nYHKRXYHSy_gMbW3By6-sB5eF1c5S01f3jLS3oIJFMEMOaiyNiCbvoekjbc_y3LtLmh5rH8-t/pub",
+      "https://docs.google.com/document/d/e/2PACX-1vTxUAGSOBN9ryhEFX65mligHRAwW00jaaodllIvdk87y9K6iMlN5VKBZKyPD1EXo8qwwEAioWs2dV4r/pub"
     ],
     "GitHub Gist (DA 96)": [
       "https://gist.github.com/VICTOR23231/f3a97fd9c2836d1a98c6f585c6e20d13",
@@ -316,7 +317,8 @@
       "https://gist.github.com/VICTOR23231/0fe6f6652edf10bbd881fc4b18725788",
       "https://gist.github.com/VICTOR23231/09505dd3bd202a53c4243e59cf4199b8",
       "https://gist.github.com/VICTOR23231/f5446f6ef9c068521a8838d2525f6e02",
-      "https://gist.github.com/VICTOR23231/73a824a8b41b5034b63c2964e664b62b"
+      "https://gist.github.com/VICTOR23231/73a824a8b41b5034b63c2964e664b62b",
+      "https://gist.github.com/VICTOR23231/9b989a45cc0054262f2ed1e3fd0a2b9f"
     ],
     "Telegraph (DA 87)": [
       "https://telegra.ph/Guía-Oficial-TPV-para-Tpv-Taller-Coches-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-09",
@@ -1341,7 +1343,8 @@
       "https://telegra.ph/Guía-Oficial-TPV-para-para-Tiendas-de-Instrumentos-Musica-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
       "https://telegra.ph/Guía-Oficial-TPV-para-para-Tiendas-de-Cuadros-Molduras-y-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
       "https://telegra.ph/Guía-Oficial-TPV-para-para-Tiendas-de-Iluminación-Lámpar-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
-      "https://telegra.ph/Guía-Oficial-TPV-para-para-Comercio-en-Alicante-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13"
+      "https://telegra.ph/Guía-Oficial-TPV-para-para-Comercio-en-Alicante-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
+      "https://telegra.ph/Guía-Oficial-TPV-para-TPV-Colchones-Catálogo-por-Materiales-Visco-Muelles-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13"
     ],
     "Notion Public Hub (DA 94)": [
       "https://app.notion.com/p/Especificaci-n-y-Coste-Real-Software-TPV-para-Tpv-Taller-Coches-VeriFactu-41375ec07b1581308a58e196be10ba41",
@@ -1462,7 +1465,8 @@
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-para-Tiendas-de-Instrumentos-Musica-VeriFactu-20-41775ec07b1581de8e2dcec43235d017",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-para-Tiendas-de-Cuadros-Molduras-y-VeriFactu-20-41775ec07b1581839366fd8009c7444a",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-para-Tiendas-de-Iluminaci-n-L-mpar-VeriFactu-20-41775ec07b1581218f2bf646b47a124d",
-      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-para-Comercio-en-Alicante-VeriFactu-2026-41775ec07b15811483bbc25e6f415861"
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-para-Comercio-en-Alicante-VeriFactu-2026-41775ec07b15811483bbc25e6f415861",
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-TPV-Colchones-Cat-logo-por-Materiales-Visco-Mu-41775ec07b158171b15cd2479a07c1dd"
     ],
     "Google Blogger (DA 99)": [
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01037836888.html",
@@ -1586,7 +1590,8 @@
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01539420511.html",
       "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-talleres-mecanicos_01237326374.html",
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_02057302754.html",
-      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01167973359.html"
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01167973359.html",
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_02135949432.html"
     ],
     "GitHub Pages Satélite (DA 96)": [
       "https://victor23231.github.io/tpv-zapateria-software-calzado/",
@@ -11307,13 +11312,13 @@
       "url": "https://gist.github.com/VICTOR23231/73a824a8b41b5034b63c2964e664b62b",
       "platform": "GitHub Gist (DA 96)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Gratis para Comercio en Alicante"
     },
     {
       "url": "https://telegra.ph/Guía-Oficial-TPV-para-para-Comercio-en-Alicante-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
       "platform": "Telegraph (DA 87)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Gratis para Comercio en Alicante"
     },
     {
       "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-para-Comercio-en-Alicante-VeriFactu-2026-41775ec07b15811483bbc25e6f415861",
@@ -11326,6 +11331,36 @@
       "platform": "Google Blogger (DA 99)",
       "source": "Boveda_Backlinks_Grafo",
       "sector": "Blogger_tpv_alicante_DA99"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vTxUAGSOBN9ryhEFX65mligHRAwW00jaaodllIvdk87y9K6iMlN5VKBZKyPD1EXo8qwwEAioWs2dV4r/pub",
+      "platform": "Google Docs (DA 100)",
+      "source": "Catastro 446",
+      "sector": "Devto_Auto2H_tpv-colchones-viscoelastica-muelles-garantias_c121"
+    },
+    {
+      "url": "https://gist.github.com/VICTOR23231/9b989a45cc0054262f2ed1e3fd0a2b9f",
+      "platform": "GitHub Gist (DA 96)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://telegra.ph/Guía-Oficial-TPV-para-TPV-Colchones-Catálogo-por-Materiales-Visco-Muelles-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
+      "platform": "Telegraph (DA 87)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-TPV-Colchones-Cat-logo-por-Materiales-Visco-Mu-41775ec07b158171b15cd2479a07c1dd",
+      "platform": "Notion Public Hub (DA 94)",
+      "source": "Catastro 446",
+      "sector": "Notion_tpv_colchones_viscoelastica_muelles_garantias_DA94"
+    },
+    {
+      "url": "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_02135949432.html",
+      "platform": "Google Blogger (DA 99)",
+      "source": "Boveda_Backlinks_Grafo",
+      "sector": "Blogger_tpv_colchones_viscoelastica_muelles_garantias_DA99"
     }
   ]
 }
