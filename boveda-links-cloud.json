@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13 14:25:31",
-  "total_unique_links": 1644,
+  "updated_at": "2026-11-13 14:56:49",
+  "total_unique_links": 1649,
   "triada_oficial": {
     "carrito5": "https://www.carrito5.com",
     "abacosoftware": "https://www.abacosoftware.com",
@@ -12,11 +12,11 @@
     "json_db": "https://victor23231.github.io/boveda-links-cloud.json"
   },
   "counts_by_platform": {
-    "Telegraph (DA 87)": 1029,
-    "GitHub Gist (DA 96)": 179,
-    "Google Blogger (DA 99)": 130,
-    "Notion Public Hub (DA 94)": 125,
-    "Google Docs (DA 100)": 124,
+    "Telegraph (DA 87)": 1030,
+    "GitHub Gist (DA 96)": 180,
+    "Google Blogger (DA 99)": 131,
+    "Notion Public Hub (DA 94)": 126,
+    "Google Docs (DA 100)": 125,
     "Dev.to (DA 92)": 30,
     "GitLab Snippets (DA 91)": 15,
     "GitHub Pages Satélite (DA 96)": 10,
@@ -147,7 +147,8 @@
       "https://docs.google.com/document/d/e/2PACX-1vRvVDrtekSAC7vGrPBlcKHxD9Mt9bWepbpxxE77WaCvoB2G5GQNwHcxuoAoHGzeq6h0tH0eSv-s5YOk/pub",
       "https://docs.google.com/document/d/e/2PACX-1vTkrEfm-mvJ7wLicSSKinqIkQ-RVgeIEbcGdMocKbvrtr9GXi8dFvy50rV5bqfj3garhq0x2FWltzFz/pub",
       "https://docs.google.com/document/d/e/2PACX-1vQx0j7neHJzNbQbgbfUsLwZtNjP4EOgmfDssOFcblSoPyABXTv1ZHmWYonLlNi7Do5c1AKH2mh3cMbU/pub",
-      "https://docs.google.com/document/d/e/2PACX-1vT_vPtR8sRFG46wAtJXX5Rs9mvh5gx04YstRkEAlWTKyFVV8XGWweGAsW39iLKpThqbxkqhNyYoXboL/pub"
+      "https://docs.google.com/document/d/e/2PACX-1vT_vPtR8sRFG46wAtJXX5Rs9mvh5gx04YstRkEAlWTKyFVV8XGWweGAsW39iLKpThqbxkqhNyYoXboL/pub",
+      "https://docs.google.com/document/d/e/2PACX-1vT4bNRlcz-0Jk5HTezgRQCKt65RDfP0vIXr_e3w1dcW4xyA6l5oWw0oez2-gAVqTqkCotMjk5DwFtSC/pub"
     ],
     "GitHub Gist (DA 96)": [
       "https://gist.github.com/VICTOR23231/f3a97fd9c2836d1a98c6f585c6e20d13",
@@ -328,7 +329,8 @@
       "https://gist.github.com/VICTOR23231/0d40be671e272b0d54a2483fdd6371ac",
       "https://gist.github.com/VICTOR23231/3cc14185f72a4eff4eeffced17536e7a",
       "https://gist.github.com/VICTOR23231/aa90d2cce2fa777eaf3b4b60af048e38",
-      "https://gist.github.com/VICTOR23231/128fbf0228a9d341cdb3694e89199cc0"
+      "https://gist.github.com/VICTOR23231/128fbf0228a9d341cdb3694e89199cc0",
+      "https://gist.github.com/VICTOR23231/ac5f75fc12ff2505bd393faa0a21f839"
     ],
     "Telegraph (DA 87)": [
       "https://telegra.ph/Guía-Oficial-TPV-para-Tpv-Taller-Coches-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-09",
@@ -1359,7 +1361,8 @@
       "https://telegra.ph/Guía-Oficial-TPV-para-TPV-Cadenas-de-Colchonerías-Gestión-Multitienda-Trasp-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
       "https://telegra.ph/Guía-Oficial-TPV-para-TPV-Colchones-Gestión-de-Montajes-Reparto-y-Retirada-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
       "https://telegra.ph/Guía-Oficial-TPV-para-TPV-para-Tiendas-de-Ropa-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
-      "https://telegra.ph/Guía-Oficial-TPV-para-Talleres-de-Luthier-y-Reparación-de-I-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13"
+      "https://telegra.ph/Guía-Oficial-TPV-para-Talleres-de-Luthier-y-Reparación-de-I-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
+      "https://telegra.ph/Guía-Oficial-TPV-para-Bodegas-Vinotecas-y-Tiendas-Gourmet-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13"
     ],
     "Notion Public Hub (DA 94)": [
       "https://app.notion.com/p/Especificaci-n-y-Coste-Real-Software-TPV-para-Tpv-Taller-Coches-VeriFactu-41375ec07b1581308a58e196be10ba41",
@@ -1486,7 +1489,8 @@
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-TPV-Cadenas-de-Colchoner-as-Gesti-n-Multitienda--41775ec07b158170befaf756249b5973",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-TPV-Colchones-Gesti-n-de-Montajes-Reparto-y-Ret-41775ec07b15815c9bc6fd633c78aaa8",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-TPV-para-Tiendas-de-Ropa-VeriFactu-2026-41775ec07b1581a0adbaeb18a1119aee",
-      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Talleres-de-Luthier-y-Reparaci-n-de-I-VeriFactu--41775ec07b158169b120e9e65e559dd7"
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Talleres-de-Luthier-y-Reparaci-n-de-I-VeriFactu--41775ec07b158169b120e9e65e559dd7",
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Bodegas-Vinotecas-y-Tiendas-Gourmet-VeriFactu-2-41775ec07b1581ffa905def64ea68427"
     ],
     "Google Blogger (DA 99)": [
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01037836888.html",
@@ -1618,7 +1622,8 @@
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0531590849.html",
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0452886051.html",
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_018101613.html",
-      "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-panaderias-balanzas-y_0851585474.html"
+      "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-panaderias-balanzas-y_0851585474.html",
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01229941310.html"
     ],
     "GitHub Pages Satélite (DA 96)": [
       "https://victor23231.github.io/tpv-zapateria-software-calzado/",
@@ -11525,13 +11530,13 @@
       "url": "https://gist.github.com/VICTOR23231/128fbf0228a9d341cdb3694e89199cc0",
       "platform": "GitHub Gist (DA 96)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Talleres de Luthier y Reparación de I | Carr..."
     },
     {
       "url": "https://telegra.ph/Guía-Oficial-TPV-para-Talleres-de-Luthier-y-Reparación-de-I-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
       "platform": "Telegraph (DA 87)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Talleres de Luthier y Reparación de I | Carr..."
     },
     {
       "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Talleres-de-Luthier-y-Reparaci-n-de-I-VeriFactu--41775ec07b158169b120e9e65e559dd7",
@@ -11550,6 +11555,36 @@
       "platform": "Google Blogger (DA 99)",
       "source": "Blogger Live Feed",
       "sector": "General"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vT4bNRlcz-0Jk5HTezgRQCKt65RDfP0vIXr_e3w1dcW4xyA6l5oWw0oez2-gAVqTqkCotMjk5DwFtSC/pub",
+      "platform": "Google Docs (DA 100)",
+      "source": "Catastro 446",
+      "sector": "Devto_Auto2H_tpv-bodegas-vinotecas-gourmet_c127"
+    },
+    {
+      "url": "https://gist.github.com/VICTOR23231/ac5f75fc12ff2505bd393faa0a21f839",
+      "platform": "GitHub Gist (DA 96)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://telegra.ph/Guía-Oficial-TPV-para-Bodegas-Vinotecas-y-Tiendas-Gourmet-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-13",
+      "platform": "Telegraph (DA 87)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Bodegas-Vinotecas-y-Tiendas-Gourmet-VeriFactu-2-41775ec07b1581ffa905def64ea68427",
+      "platform": "Notion Public Hub (DA 94)",
+      "source": "Catastro 446",
+      "sector": "Notion_tpv_bodegas_vinotecas_gourmet_DA94"
+    },
+    {
+      "url": "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01229941310.html",
+      "platform": "Google Blogger (DA 99)",
+      "source": "Boveda_Backlinks_Grafo",
+      "sector": "Blogger_tpv_bodegas_vinotecas_gourmet_DA99"
     }
   ]
 }
