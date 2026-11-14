@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14 07:04:31",
-  "total_unique_links": 1812,
+  "updated_at": "2026-11-14 07:35:41",
+  "total_unique_links": 1817,
   "triada_oficial": {
     "carrito5": "https://www.carrito5.com",
     "abacosoftware": "https://www.abacosoftware.com",
@@ -12,11 +12,11 @@
     "json_db": "https://victor23231.github.io/boveda-links-cloud.json"
   },
   "counts_by_platform": {
-    "Telegraph (DA 87)": 1061,
-    "GitHub Gist (DA 96)": 211,
-    "Google Blogger (DA 99)": 170,
-    "Notion Public Hub (DA 94)": 157,
-    "Google Docs (DA 100)": 156,
+    "Telegraph (DA 87)": 1062,
+    "GitHub Gist (DA 96)": 212,
+    "Google Blogger (DA 99)": 171,
+    "Notion Public Hub (DA 94)": 158,
+    "Google Docs (DA 100)": 157,
     "Dev.to (DA 92)": 30,
     "GitLab Snippets (DA 91)": 15,
     "GitHub Pages Satélite (DA 96)": 10,
@@ -179,7 +179,8 @@
       "https://docs.google.com/document/d/e/2PACX-1vTQrDISE7pHo3vzkZtEeUIt6p4B9vjU-fwtPfS3g4_kFDP3IZlnRcGmM62lTYULsuqwn0caHYrfNpVR/pub",
       "https://docs.google.com/document/d/e/2PACX-1vSbOb_Z-ay0ekUvl8-CH4lrmT3sTXUEvLBQXEJ2Xu8_onEmq-vYJvwzh43lCNFt3N2-wG8P3fLIJVwN/pub",
       "https://docs.google.com/document/d/e/2PACX-1vRAiJ3F-pjy93WWPZctYN0VxzqWrk9T_kP81hrr7NqP-Xm2Dol2jblf-R_GnjtNw26JyvqaqmTLyZVd/pub",
-      "https://docs.google.com/document/d/e/2PACX-1vSbL8dFIUF7CCh7rbhlkCuQLESjnE33KVmVZZyna_QSKJ1-gQjfR9PU4ohtfiimxsokFJKtDu1PwywK/pub"
+      "https://docs.google.com/document/d/e/2PACX-1vSbL8dFIUF7CCh7rbhlkCuQLESjnE33KVmVZZyna_QSKJ1-gQjfR9PU4ohtfiimxsokFJKtDu1PwywK/pub",
+      "https://docs.google.com/document/d/e/2PACX-1vQ-FTrByj0dM1w38Y-qWmo7d4ngmCSNj0M-8iOF-QYbpoq71HxU3G9eXqU5OsCqMciVnvQahZsutMcL/pub"
     ],
     "GitHub Gist (DA 96)": [
       "https://gist.github.com/VICTOR23231/f3a97fd9c2836d1a98c6f585c6e20d13",
@@ -392,7 +393,8 @@
       "https://gist.github.com/VICTOR23231/8b8c28f11a1d5bf6278d63ac3423af1e",
       "https://gist.github.com/VICTOR23231/0f59d1255202706af4b22a104fb15ddc",
       "https://gist.github.com/VICTOR23231/97ed92c16c88511041ff355a64c17cb0",
-      "https://gist.github.com/VICTOR23231/8d98ef20063430ac664f433ec838648d"
+      "https://gist.github.com/VICTOR23231/8d98ef20063430ac664f433ec838648d",
+      "https://gist.github.com/VICTOR23231/02116bb6b0794e941d5cebf2c22e33a7"
     ],
     "Telegraph (DA 87)": [
       "https://telegra.ph/Guía-Oficial-TPV-para-Tpv-Taller-Coches-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-09",
@@ -1455,7 +1457,8 @@
       "https://telegra.ph/Guía-Oficial-TPV-para-VeriFactu-para-PC-y-Comercio-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-14-3",
       "https://telegra.ph/Guía-Oficial-TPV-para-Terminos-De-Uso-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-14",
       "https://telegra.ph/Guía-Oficial-TPV-para-Control-de-Márgenes-Tarifas-de-Gremios-y-Rentabilidad-en-Ferreterías-Noviembre-2026-VeriFactu-Stock-y-Lice-11-14",
-      "https://telegra.ph/Guía-Oficial-TPV-para-Programa-de-Control-de-Stock-e-Inventario-para-Ferreterías-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-C-11-14"
+      "https://telegra.ph/Guía-Oficial-TPV-para-Programa-de-Control-de-Stock-e-Inventario-para-Ferreterías-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-C-11-14",
+      "https://telegra.ph/Guía-Oficial-TPV-para-Software-de-Código-de-Barras-y-Etiquetado-de-Gavetas-para-Ferreterías-Noviembre-2026-VeriFactu-Stock-y-Lic-11-14"
     ],
     "Notion Public Hub (DA 94)": [
       "https://app.notion.com/p/Especificaci-n-y-Coste-Real-Software-TPV-para-Tpv-Taller-Coches-VeriFactu-41375ec07b1581308a58e196be10ba41",
@@ -1614,7 +1617,8 @@
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-VeriFactu-para-PC-y-Comercio-VeriFactu-2026-41875ec07b15814ebdb1dab197533cfb",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Terminos-De-Uso-VeriFactu-2026-41875ec07b15813c92b8cf0fe486e984",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Control-de-M-rgenes-Tarifas-de-Gremios-y-Rentabi-41875ec07b1581e19837f025fd000b96",
-      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Programa-de-Control-de-Stock-e-Inventario-para-Fe-41875ec07b15819495feddb5db153352"
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Programa-de-Control-de-Stock-e-Inventario-para-Fe-41875ec07b15819495feddb5db153352",
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Software-de-C-digo-de-Barras-y-Etiquetado-de-Gave-41875ec07b1581b9b4d3ea609edfda5c"
     ],
     "Google Blogger (DA 99)": [
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01037836888.html",
@@ -1786,7 +1790,8 @@
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01883559586.html",
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01635982989.html",
       "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-peluquerias-agenda_076317400.html",
-      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0856828607.html"
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0856828607.html",
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01807699891.html"
     ],
     "GitHub Pages Satélite (DA 96)": [
       "https://victor23231.github.io/tpv-zapateria-software-calzado/",
@@ -12707,13 +12712,13 @@
       "url": "https://gist.github.com/VICTOR23231/8d98ef20063430ac664f433ec838648d",
       "platform": "GitHub Gist (DA 96)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Programa de Control de Stock e Inventario para Ferreterías"
     },
     {
       "url": "https://telegra.ph/Guía-Oficial-TPV-para-Programa-de-Control-de-Stock-e-Inventario-para-Ferreterías-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-C-11-14",
       "platform": "Telegraph (DA 87)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Programa de Control de Stock e Inventario para Ferreterías"
     },
     {
       "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Programa-de-Control-de-Stock-e-Inventario-para-Fe-41875ec07b15819495feddb5db153352",
@@ -12726,6 +12731,36 @@
       "platform": "Google Blogger (DA 99)",
       "source": "Boveda_Backlinks_Grafo",
       "sector": "Blogger_ferreteria_stock_inventario_DA99"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vQ-FTrByj0dM1w38Y-qWmo7d4ngmCSNj0M-8iOF-QYbpoq71HxU3G9eXqU5OsCqMciVnvQahZsutMcL/pub",
+      "platform": "Google Docs (DA 100)",
+      "source": "Catastro 446",
+      "sector": "Devto_Auto2H_ferreteria-codigo-barras_c159"
+    },
+    {
+      "url": "https://gist.github.com/VICTOR23231/02116bb6b0794e941d5cebf2c22e33a7",
+      "platform": "GitHub Gist (DA 96)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://telegra.ph/Guía-Oficial-TPV-para-Software-de-Código-de-Barras-y-Etiquetado-de-Gavetas-para-Ferreterías-Noviembre-2026-VeriFactu-Stock-y-Lic-11-14",
+      "platform": "Telegraph (DA 87)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Software-de-C-digo-de-Barras-y-Etiquetado-de-Gave-41875ec07b1581b9b4d3ea609edfda5c",
+      "platform": "Notion Public Hub (DA 94)",
+      "source": "Catastro 446",
+      "sector": "Notion_ferreteria_codigo_barras_DA94"
+    },
+    {
+      "url": "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01807699891.html",
+      "platform": "Google Blogger (DA 99)",
+      "source": "Boveda_Backlinks_Grafo",
+      "sector": "Blogger_ferreteria_codigo_barras_DA99"
     }
   ]
 }
