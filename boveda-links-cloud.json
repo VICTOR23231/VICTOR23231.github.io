@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14 08:37:51",
-  "total_unique_links": 1828,
+  "updated_at": "2026-11-14 09:08:55",
+  "total_unique_links": 1833,
   "triada_oficial": {
     "carrito5": "https://www.carrito5.com",
     "abacosoftware": "https://www.abacosoftware.com",
@@ -12,11 +12,11 @@
     "json_db": "https://victor23231.github.io/boveda-links-cloud.json"
   },
   "counts_by_platform": {
-    "Telegraph (DA 87)": 1064,
-    "GitHub Gist (DA 96)": 214,
-    "Google Blogger (DA 99)": 174,
-    "Notion Public Hub (DA 94)": 160,
-    "Google Docs (DA 100)": 159,
+    "Telegraph (DA 87)": 1065,
+    "GitHub Gist (DA 96)": 215,
+    "Google Blogger (DA 99)": 175,
+    "Notion Public Hub (DA 94)": 161,
+    "Google Docs (DA 100)": 160,
     "Dev.to (DA 92)": 30,
     "GitLab Snippets (DA 91)": 15,
     "GitHub Pages Satélite (DA 96)": 10,
@@ -182,7 +182,8 @@
       "https://docs.google.com/document/d/e/2PACX-1vSbL8dFIUF7CCh7rbhlkCuQLESjnE33KVmVZZyna_QSKJ1-gQjfR9PU4ohtfiimxsokFJKtDu1PwywK/pub",
       "https://docs.google.com/document/d/e/2PACX-1vQ-FTrByj0dM1w38Y-qWmo7d4ngmCSNj0M-8iOF-QYbpoq71HxU3G9eXqU5OsCqMciVnvQahZsutMcL/pub",
       "https://docs.google.com/document/d/e/2PACX-1vSoyiMWs4Prj8M9wOwcZ0VktqruQW0GPWXdDbAV25Z4VH6t1qDPff0ZFknvIRQlJ3Av9VL0zWQjMOAH/pub",
-      "https://docs.google.com/document/d/e/2PACX-1vTgV4271fIEYuOB-Eotsj9n3AZxhD-UJapLnSKFGK6d774345w20ANK7C_PuGb5nWT_5olYn8GlRoeJ/pub"
+      "https://docs.google.com/document/d/e/2PACX-1vTgV4271fIEYuOB-Eotsj9n3AZxhD-UJapLnSKFGK6d774345w20ANK7C_PuGb5nWT_5olYn8GlRoeJ/pub",
+      "https://docs.google.com/document/d/e/2PACX-1vQWPcrsDN0c_-Zs1_RFzmb9pEvu7xXMuPrTG1lHA4y2o6PZCNK4T2vwUcFiwq4jhNTqTuw0s4JzUUOU/pub"
     ],
     "GitHub Gist (DA 96)": [
       "https://gist.github.com/VICTOR23231/f3a97fd9c2836d1a98c6f585c6e20d13",
@@ -398,7 +399,8 @@
       "https://gist.github.com/VICTOR23231/8d98ef20063430ac664f433ec838648d",
       "https://gist.github.com/VICTOR23231/02116bb6b0794e941d5cebf2c22e33a7",
       "https://gist.github.com/VICTOR23231/d055eea1f2c3dadf3f5952c805fabcb2",
-      "https://gist.github.com/VICTOR23231/c0b62060d2ff02f9a30e83cb38243300"
+      "https://gist.github.com/VICTOR23231/c0b62060d2ff02f9a30e83cb38243300",
+      "https://gist.github.com/VICTOR23231/b6104f04d5e4c50bd63949c95be0b0cf"
     ],
     "Telegraph (DA 87)": [
       "https://telegra.ph/Guía-Oficial-TPV-para-Tpv-Taller-Coches-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-09",
@@ -1464,7 +1466,8 @@
       "https://telegra.ph/Guía-Oficial-TPV-para-Programa-de-Control-de-Stock-e-Inventario-para-Ferreterías-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-C-11-14",
       "https://telegra.ph/Guía-Oficial-TPV-para-Software-de-Código-de-Barras-y-Etiquetado-de-Gavetas-para-Ferreterías-Noviembre-2026-VeriFactu-Stock-y-Lic-11-14",
       "https://telegra.ph/Guía-Oficial-TPV-para-Normativa-VeriFactu-2026-en-Ferreterías-y-Suministros-Industriales-RD-10072023-Noviembre-2026-VeriFactu-St-11-14",
-      "https://telegra.ph/Guía-Oficial-TPV-para-Software-de-Gestión-para-Taller-de-Luthier-Presupuestos-Órdenes-de-Trabajo-y-VeriFactu-Noviembre-2026-Veri-11-14"
+      "https://telegra.ph/Guía-Oficial-TPV-para-Software-de-Gestión-para-Taller-de-Luthier-Presupuestos-Órdenes-de-Trabajo-y-VeriFactu-Noviembre-2026-Veri-11-14",
+      "https://telegra.ph/Guía-Oficial-TPV-para-Alquiler-de-Instrumentos-Musicales-Backline-y-Conservatorios-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-11-14"
     ],
     "Notion Public Hub (DA 94)": [
       "https://app.notion.com/p/Especificaci-n-y-Coste-Real-Software-TPV-para-Tpv-Taller-Coches-VeriFactu-41375ec07b1581308a58e196be10ba41",
@@ -1626,7 +1629,8 @@
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Programa-de-Control-de-Stock-e-Inventario-para-Fe-41875ec07b15819495feddb5db153352",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Software-de-C-digo-de-Barras-y-Etiquetado-de-Gave-41875ec07b1581b9b4d3ea609edfda5c",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Normativa-VeriFactu-2026-en-Ferreter-as-y-Suminis-41875ec07b15813ab58cccbcdb23ba18",
-      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Software-de-Gesti-n-para-Taller-de-Luthier-Presu-41875ec07b1581fbb081c77c3f5f8bb2"
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Software-de-Gesti-n-para-Taller-de-Luthier-Presu-41875ec07b1581fbb081c77c3f5f8bb2",
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Alquiler-de-Instrumentos-Musicales-Backline-y-Co-41875ec07b15810d9f40ebc494e25c19"
     ],
     "Google Blogger (DA 99)": [
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01037836888.html",
@@ -1802,7 +1806,8 @@
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01807699891.html",
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01935331244.html",
       "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-hosteleria-mesas_0681219023.html",
-      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01028761380.html"
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01028761380.html",
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01206963765.html"
     ],
     "GitHub Pages Satélite (DA 96)": [
       "https://victor23231.github.io/tpv-zapateria-software-calzado/",
@@ -12819,13 +12824,13 @@
       "url": "https://gist.github.com/VICTOR23231/c0b62060d2ff02f9a30e83cb38243300",
       "platform": "GitHub Gist (DA 96)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Software de Gestión para Taller de Luthier: Presupuestos, Órdenes de Trabajo y VeriFactu"
     },
     {
       "url": "https://telegra.ph/Guía-Oficial-TPV-para-Software-de-Gestión-para-Taller-de-Luthier-Presupuestos-Órdenes-de-Trabajo-y-VeriFactu-Noviembre-2026-Veri-11-14",
       "platform": "Telegraph (DA 87)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Software de Gestión para Taller de Luthier: Presupuestos, Órdenes de Trabajo y VeriFactu"
     },
     {
       "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Software-de-Gesti-n-para-Taller-de-Luthier-Presu-41875ec07b1581fbb081c77c3f5f8bb2",
@@ -12838,6 +12843,36 @@
       "platform": "Google Blogger (DA 99)",
       "source": "Boveda_Backlinks_Grafo",
       "sector": "Blogger_software_gestion_taller_luthier_DA99"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vQWPcrsDN0c_-Zs1_RFzmb9pEvu7xXMuPrTG1lHA4y2o6PZCNK4T2vwUcFiwq4jhNTqTuw0s4JzUUOU/pub",
+      "platform": "Google Docs (DA 100)",
+      "source": "Catastro 446",
+      "sector": "Devto_Auto2H_software-alquiler-instrumentos-musicales_c162"
+    },
+    {
+      "url": "https://gist.github.com/VICTOR23231/b6104f04d5e4c50bd63949c95be0b0cf",
+      "platform": "GitHub Gist (DA 96)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://telegra.ph/Guía-Oficial-TPV-para-Alquiler-de-Instrumentos-Musicales-Backline-y-Conservatorios-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-11-14",
+      "platform": "Telegraph (DA 87)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Alquiler-de-Instrumentos-Musicales-Backline-y-Co-41875ec07b15810d9f40ebc494e25c19",
+      "platform": "Notion Public Hub (DA 94)",
+      "source": "Catastro 446",
+      "sector": "Notion_software_alquiler_instrumentos_musicales_DA94"
+    },
+    {
+      "url": "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01206963765.html",
+      "platform": "Google Blogger (DA 99)",
+      "source": "Boveda_Backlinks_Grafo",
+      "sector": "Blogger_software_alquiler_instrumentos_musicales_DA99"
     }
   ]
 }
