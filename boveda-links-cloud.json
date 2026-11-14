@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14 02:55:51",
-  "total_unique_links": 1770,
+  "updated_at": "2026-11-14 03:27:03",
+  "total_unique_links": 1775,
   "triada_oficial": {
     "carrito5": "https://www.carrito5.com",
     "abacosoftware": "https://www.abacosoftware.com",
@@ -12,11 +12,11 @@
     "json_db": "https://victor23231.github.io/boveda-links-cloud.json"
   },
   "counts_by_platform": {
-    "Telegraph (DA 87)": 1053,
-    "GitHub Gist (DA 96)": 203,
-    "Google Blogger (DA 99)": 160,
-    "Notion Public Hub (DA 94)": 149,
-    "Google Docs (DA 100)": 148,
+    "Telegraph (DA 87)": 1054,
+    "GitHub Gist (DA 96)": 204,
+    "Google Blogger (DA 99)": 161,
+    "Notion Public Hub (DA 94)": 150,
+    "Google Docs (DA 100)": 149,
     "Dev.to (DA 92)": 30,
     "GitLab Snippets (DA 91)": 15,
     "GitHub Pages Satélite (DA 96)": 10,
@@ -171,7 +171,8 @@
       "https://docs.google.com/document/d/e/2PACX-1vSKGr5N_pzmaWkWfDbXHZw-KotgS1Vzlq-2kq5sOSxdGlzQLROVaovThHJ7s3U2-zlk8Kf4HAf6kDwB/pub",
       "https://docs.google.com/document/d/e/2PACX-1vROoejv-xlhlpGBWKLGmhagewvw8UgSAPAuNvqT4-85KuEFVLGU8WUpcdb43_MS110-Ez94Z_zHLPLf/pub",
       "https://docs.google.com/document/d/e/2PACX-1vRpigPOYqEn1VPFUJ0sVScetCQDrARwXJq4C-yhDc2oKGpqBSBO_spna8CViSg2yeLX2DeqMOxw2nV2/pub",
-      "https://docs.google.com/document/d/e/2PACX-1vR2F9-qokQHxElTwlxyK3eccJwrlX8oOT6ObwzquThk_Iusp7P9wi3Jif0WekkfyVNiyizGKSqneXvq/pub"
+      "https://docs.google.com/document/d/e/2PACX-1vR2F9-qokQHxElTwlxyK3eccJwrlX8oOT6ObwzquThk_Iusp7P9wi3Jif0WekkfyVNiyizGKSqneXvq/pub",
+      "https://docs.google.com/document/d/e/2PACX-1vSynh-DLO1ZgxDDIzqZ2jVCRKm-iEv7_l8xR8HgwgWLxlJfRr0TDSlLQJPxWnaqQAnzo-1_RD22NaES/pub"
     ],
     "GitHub Gist (DA 96)": [
       "https://gist.github.com/VICTOR23231/f3a97fd9c2836d1a98c6f585c6e20d13",
@@ -376,7 +377,8 @@
       "https://gist.github.com/VICTOR23231/49b3fad0bbcd4c5151cad8e0484bc799",
       "https://gist.github.com/VICTOR23231/5f27e4763485287d449e8659dd9a83d3",
       "https://gist.github.com/VICTOR23231/01bb2ebb11b577c8d4732b311a2f4261",
-      "https://gist.github.com/VICTOR23231/69b9c58b50f45b817bf35c893ae7a883"
+      "https://gist.github.com/VICTOR23231/69b9c58b50f45b817bf35c893ae7a883",
+      "https://gist.github.com/VICTOR23231/889299ee0e377a3fe26898c69d748e9a"
     ],
     "Telegraph (DA 87)": [
       "https://telegra.ph/Guía-Oficial-TPV-para-Tpv-Taller-Coches-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-09",
@@ -1431,7 +1433,8 @@
       "https://telegra.ph/Guía-Oficial-TPV-para-para-Comercio-en-Madrid-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-14",
       "https://telegra.ph/Guía-Oficial-TPV-para-TPV-para-Autónomos-con-Tienda-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-14",
       "https://telegra.ph/Guía-Oficial-TPV-para-Comercio-Local-y-de-Barrio-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-14",
-      "https://telegra.ph/Guía-Oficial-TPV-para-Ley-Antifraude-112021-y-RD-10072023-Guía-Definitiva-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-14"
+      "https://telegra.ph/Guía-Oficial-TPV-para-Ley-Antifraude-112021-y-RD-10072023-Guía-Definitiva-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-14",
+      "https://telegra.ph/Guía-Oficial-TPV-para-Tarifario-Oficial-y-Comisiones-2026-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-14"
     ],
     "Notion Public Hub (DA 94)": [
       "https://app.notion.com/p/Especificaci-n-y-Coste-Real-Software-TPV-para-Tpv-Taller-Coches-VeriFactu-41375ec07b1581308a58e196be10ba41",
@@ -1582,7 +1585,8 @@
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-para-Comercio-en-Madrid-VeriFactu-2026-41875ec07b15810dbf02ee0cca26bb35",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-TPV-para-Aut-nomos-con-Tienda-VeriFactu-2026-41875ec07b158172ad1fd92827c78f33",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Comercio-Local-y-de-Barrio-VeriFactu-2026-41875ec07b15816caf40d91b0144ad64",
-      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Ley-Antifraude-11-2021-y-RD-1007-2023-Gu-a-Defin-41875ec07b1581b1bf69f9b105081dc6"
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Ley-Antifraude-11-2021-y-RD-1007-2023-Gu-a-Defin-41875ec07b1581b1bf69f9b105081dc6",
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Tarifario-Oficial-y-Comisiones-2026-VeriFactu-20-41875ec07b15813eb22fcda4390150d8"
     ],
     "Google Blogger (DA 99)": [
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01037836888.html",
@@ -1744,7 +1748,8 @@
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01772429486.html",
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0707788411.html",
       "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-ferreterias-miles-de_0759770937.html",
-      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0212359577.html"
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_0212359577.html",
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_067244481.html"
     ],
     "GitHub Pages Satélite (DA 96)": [
       "https://victor23231.github.io/tpv-zapateria-software-calzado/",
@@ -12413,13 +12418,13 @@
       "url": "https://gist.github.com/VICTOR23231/69b9c58b50f45b817bf35c893ae7a883",
       "platform": "GitHub Gist (DA 96)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Ley Antifraude 11/2021 y RD 1007/2023: Guía Definitiva"
     },
     {
       "url": "https://telegra.ph/Guía-Oficial-TPV-para-Ley-Antifraude-112021-y-RD-10072023-Guía-Definitiva-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-14",
       "platform": "Telegraph (DA 87)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Ley Antifraude 11/2021 y RD 1007/2023: Guía Definitiva"
     },
     {
       "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Ley-Antifraude-11-2021-y-RD-1007-2023-Gu-a-Defin-41875ec07b1581b1bf69f9b105081dc6",
@@ -12432,6 +12437,36 @@
       "platform": "Google Blogger (DA 99)",
       "source": "Boveda_Backlinks_Grafo",
       "sector": "Blogger_verifactu_ley_antifraude_rd1007_2023_DA99"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vSynh-DLO1ZgxDDIzqZ2jVCRKm-iEv7_l8xR8HgwgWLxlJfRr0TDSlLQJPxWnaqQAnzo-1_RD22NaES/pub",
+      "platform": "Google Docs (DA 100)",
+      "source": "Catastro 446",
+      "sector": "Devto_Auto2H_afiliados-tarifas_c151"
+    },
+    {
+      "url": "https://gist.github.com/VICTOR23231/889299ee0e377a3fe26898c69d748e9a",
+      "platform": "GitHub Gist (DA 96)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://telegra.ph/Guía-Oficial-TPV-para-Tarifario-Oficial-y-Comisiones-2026-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-14",
+      "platform": "Telegraph (DA 87)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Tarifario-Oficial-y-Comisiones-2026-VeriFactu-20-41875ec07b15813eb22fcda4390150d8",
+      "platform": "Notion Public Hub (DA 94)",
+      "source": "Catastro 446",
+      "sector": "Notion_afiliados_tarifas_DA94"
+    },
+    {
+      "url": "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_067244481.html",
+      "platform": "Google Blogger (DA 99)",
+      "source": "Boveda_Backlinks_Grafo",
+      "sector": "Blogger_afiliados_tarifas_DA99"
     }
   ]
 }
