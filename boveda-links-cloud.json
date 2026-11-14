@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14 10:11:09",
-  "total_unique_links": 1844,
+  "updated_at": "2026-11-14 10:42:14",
+  "total_unique_links": 1849,
   "triada_oficial": {
     "carrito5": "https://www.carrito5.com",
     "abacosoftware": "https://www.abacosoftware.com",
@@ -12,11 +12,11 @@
     "json_db": "https://victor23231.github.io/boveda-links-cloud.json"
   },
   "counts_by_platform": {
-    "Telegraph (DA 87)": 1067,
-    "GitHub Gist (DA 96)": 217,
-    "Google Blogger (DA 99)": 178,
-    "Notion Public Hub (DA 94)": 163,
-    "Google Docs (DA 100)": 162,
+    "Telegraph (DA 87)": 1068,
+    "GitHub Gist (DA 96)": 218,
+    "Google Blogger (DA 99)": 179,
+    "Notion Public Hub (DA 94)": 164,
+    "Google Docs (DA 100)": 163,
     "Dev.to (DA 92)": 30,
     "GitLab Snippets (DA 91)": 15,
     "GitHub Pages Satélite (DA 96)": 10,
@@ -185,7 +185,8 @@
       "https://docs.google.com/document/d/e/2PACX-1vTgV4271fIEYuOB-Eotsj9n3AZxhD-UJapLnSKFGK6d774345w20ANK7C_PuGb5nWT_5olYn8GlRoeJ/pub",
       "https://docs.google.com/document/d/e/2PACX-1vQWPcrsDN0c_-Zs1_RFzmb9pEvu7xXMuPrTG1lHA4y2o6PZCNK4T2vwUcFiwq4jhNTqTuw0s4JzUUOU/pub",
       "https://docs.google.com/document/d/e/2PACX-1vS2mDpzuindr4mgZT2AgFpluS5f9d45AVx1eJaI6Z4nJIBaiL0YfnplVII1cl08glM_11HotoamfBys/pub",
-      "https://docs.google.com/document/d/e/2PACX-1vTdSmlwmSTpsmjvR3rWp-ga8m6CPGbk304gkvukpo5X6K9IrEhaJp07OYt_0_L3ETApb_9DiJ5-dJac/pub"
+      "https://docs.google.com/document/d/e/2PACX-1vTdSmlwmSTpsmjvR3rWp-ga8m6CPGbk304gkvukpo5X6K9IrEhaJp07OYt_0_L3ETApb_9DiJ5-dJac/pub",
+      "https://docs.google.com/document/d/e/2PACX-1vTNCSOjIG_jWf41I6mHsSrHopqvJtu09poAP4a7sClQIpBS91JP3ilEdZzukSi0ZjrlpHpJ0XhfuYC2/pub"
     ],
     "GitHub Gist (DA 96)": [
       "https://gist.github.com/VICTOR23231/f3a97fd9c2836d1a98c6f585c6e20d13",
@@ -404,7 +405,8 @@
       "https://gist.github.com/VICTOR23231/c0b62060d2ff02f9a30e83cb38243300",
       "https://gist.github.com/VICTOR23231/b6104f04d5e4c50bd63949c95be0b0cf",
       "https://gist.github.com/VICTOR23231/dccf220f894f07647a90bed21b9b347a",
-      "https://gist.github.com/VICTOR23231/e9dcefdbe056bec3ec3cc9aca737469e"
+      "https://gist.github.com/VICTOR23231/e9dcefdbe056bec3ec3cc9aca737469e",
+      "https://gist.github.com/VICTOR23231/7ab14db110115c890889e40d0cd67a61"
     ],
     "Telegraph (DA 87)": [
       "https://telegra.ph/Guía-Oficial-TPV-para-Tpv-Taller-Coches-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-Cuotas-11-09",
@@ -1473,7 +1475,8 @@
       "https://telegra.ph/Guía-Oficial-TPV-para-Software-de-Gestión-para-Taller-de-Luthier-Presupuestos-Órdenes-de-Trabajo-y-VeriFactu-Noviembre-2026-Veri-11-14",
       "https://telegra.ph/Guía-Oficial-TPV-para-Alquiler-de-Instrumentos-Musicales-Backline-y-Conservatorios-Noviembre-2026-VeriFactu-Stock-y-Licencia-sin-11-14",
       "https://telegra.ph/Guía-Oficial-TPV-para-Software-de-Facturas-Simplificadas-y-Tickets-QR-VeriFactu-para-Tiendas-de-Ropa-Noviembre-2026-VeriFactu-St-11-14",
-      "https://telegra.ph/Guía-Oficial-TPV-para-Contacto-y-Soporte-Técnico-Oficial-de-Carrito5-TPV-Teléfono-953-050-112-y-WhatsApp-611-500-052-Noviembre-2-11-14"
+      "https://telegra.ph/Guía-Oficial-TPV-para-Contacto-y-Soporte-Técnico-Oficial-de-Carrito5-TPV-Teléfono-953-050-112-y-WhatsApp-611-500-052-Noviembre-2-11-14",
+      "https://telegra.ph/Guía-Oficial-TPV-para-Política-de-Privacidad-y-Confidencialidad-de-Datos-Comerciales--Ábaco-Software-Noviembre-2026-VeriFactu-St-11-14"
     ],
     "Notion Public Hub (DA 94)": [
       "https://app.notion.com/p/Especificaci-n-y-Coste-Real-Software-TPV-para-Tpv-Taller-Coches-VeriFactu-41375ec07b1581308a58e196be10ba41",
@@ -1638,7 +1641,8 @@
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Software-de-Gesti-n-para-Taller-de-Luthier-Presu-41875ec07b1581fbb081c77c3f5f8bb2",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Alquiler-de-Instrumentos-Musicales-Backline-y-Co-41875ec07b15810d9f40ebc494e25c19",
       "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Software-de-Facturas-Simplificadas-y-Tickets-QR-V-41875ec07b15812c9ff1fe03d5f521cb",
-      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Contacto-y-Soporte-T-cnico-Oficial-de-Carrito5-TP-41875ec07b1581e68c16c8ab5f02022d"
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Contacto-y-Soporte-T-cnico-Oficial-de-Carrito5-TP-41875ec07b1581e68c16c8ab5f02022d",
+      "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Pol-tica-de-Privacidad-y-Confidencialidad-de-Dato-41875ec07b1581178eb3dbda44b6a969"
     ],
     "Google Blogger (DA 99)": [
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01037836888.html",
@@ -1818,7 +1822,8 @@
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01206963765.html",
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01715065754.html",
       "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01754984362.html",
-      "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-zapaterias-control-de_01754364290.html"
+      "https://tpvgratiss.blogspot.com/2026/11/software-tpv-para-zapaterias-control-de_01754364290.html",
+      "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01446560746.html"
     ],
     "GitHub Pages Satélite (DA 96)": [
       "https://victor23231.github.io/tpv-zapateria-software-calzado/",
@@ -12925,13 +12930,13 @@
       "url": "https://gist.github.com/VICTOR23231/e9dcefdbe056bec3ec3cc9aca737469e",
       "platform": "GitHub Gist (DA 96)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Contacto y Soporte Técnico Oficial de Carrito5 TPV (Teléfono 953 050 112 y WhatsApp 611 500 052)"
     },
     {
       "url": "https://telegra.ph/Guía-Oficial-TPV-para-Contacto-y-Soporte-Técnico-Oficial-de-Carrito5-TPV-Teléfono-953-050-112-y-WhatsApp-611-500-052-Noviembre-2-11-14",
       "platform": "Telegraph (DA 87)",
       "source": "Catastro 446",
-      "sector": "General"
+      "sector": "Contacto y Soporte Técnico Oficial de Carrito5 TPV (Teléfono 953 050 112 y WhatsApp 611 500 052)"
     },
     {
       "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Contacto-y-Soporte-T-cnico-Oficial-de-Carrito5-TP-41875ec07b1581e68c16c8ab5f02022d",
@@ -12950,6 +12955,36 @@
       "platform": "Google Blogger (DA 99)",
       "source": "Blogger Live Feed",
       "sector": "General"
+    },
+    {
+      "url": "https://docs.google.com/document/d/e/2PACX-1vTNCSOjIG_jWf41I6mHsSrHopqvJtu09poAP4a7sClQIpBS91JP3ilEdZzukSi0ZjrlpHpJ0XhfuYC2/pub",
+      "platform": "Google Docs (DA 100)",
+      "source": "Catastro 446",
+      "sector": "Devto_Auto2H_politica-privacidad_c165"
+    },
+    {
+      "url": "https://gist.github.com/VICTOR23231/7ab14db110115c890889e40d0cd67a61",
+      "platform": "GitHub Gist (DA 96)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://telegra.ph/Guía-Oficial-TPV-para-Política-de-Privacidad-y-Confidencialidad-de-Datos-Comerciales--Ábaco-Software-Noviembre-2026-VeriFactu-St-11-14",
+      "platform": "Telegraph (DA 87)",
+      "source": "Catastro 446",
+      "sector": "General"
+    },
+    {
+      "url": "https://app.notion.com/p/Especificaci-n-AEO-y-Coste-Real-Software-TPV-para-Pol-tica-de-Privacidad-y-Confidencialidad-de-Dato-41875ec07b1581178eb3dbda44b6a969",
+      "platform": "Notion Public Hub (DA 94)",
+      "source": "Catastro 446",
+      "sector": "Notion_politica_privacidad_DA94"
+    },
+    {
+      "url": "https://tpvgratiss.blogspot.com/2026/11/cuanto-cuesta-realmente-un-software-tpv_01446560746.html",
+      "platform": "Google Blogger (DA 99)",
+      "source": "Boveda_Backlinks_Grafo",
+      "sector": "Blogger_politica_privacidad_DA99"
     }
   ]
 }
